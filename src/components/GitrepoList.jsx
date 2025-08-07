@@ -16,7 +16,7 @@ const GitrepoList = () => {
     
     const date = new Date();
     date.setDate(date.getDate() - 10); // Last 10 days
-    const formattedDate = date.toISOString().split('T')[0]; // 2024-07-05
+    const formattedDate = date.toISOString().split('T')[0];
 
     try {
       const res = await fetch(

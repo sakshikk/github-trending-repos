@@ -1,5 +1,4 @@
 
-import React from 'react';
 import GitrepoList from './components/GitrepoList';
 import BottomNav from './components/BottomNav';
 

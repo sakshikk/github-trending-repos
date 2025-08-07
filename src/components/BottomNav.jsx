@@ -1,4 +1,3 @@
-import React from 'react';
 import { FaStar } from 'react-icons/fa';
 import { FiSettings } from 'react-icons/fi';
 import '../Styles.css';
